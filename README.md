@@ -32,6 +32,3 @@ N/A
 ## Project Status
 
 This is a basic calendar project but expect room for improvements in the future
-
-
-
