@@ -5,8 +5,8 @@ The user should be able to view the saved appointments.
 The calendar display different colors based on the present, past and future timings
 
 ## Screenshot
-![testing](./Develop/assets/images/screenshot1.png)
-![testing](./Develop/assets/images/screenshot2.png)
+![testing](./Assets/images/screenshot1.png)
+![testing](./Assets/images/screenshot2.png)
 
 ## Application URL
 
